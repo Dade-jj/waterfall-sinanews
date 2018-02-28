@@ -1,5 +1,5 @@
 # 瀑布流新闻网站
-#### [效果预览]('https://dade-jj.github.io/waterfall-sinanews/index.html')
+#### [效果预览](https://dade-jj.github.io/waterfall-sinanews/index.html)
 ## 懒加载原理
 先将img的src设置为同一个url，然后将图片的url放到自定义属性上，当js检测到浏览器窗口滑动到该img时再将url放到src上。这样做可防止页面一次性加载大量图片而造成的页面卡顿。
 ## 瀑布流原理
